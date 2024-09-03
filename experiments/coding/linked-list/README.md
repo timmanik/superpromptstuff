@@ -1,6 +1,8 @@
-# Alorithm optimization task
+# Algorithm optimization task
 
 ## Prompt
+
+***Note***: Both prompts were accompanied by the [linked-list-original.py](linked-list-original.py) file.
 
 Prompt for LLM with system prompt:
 ```
