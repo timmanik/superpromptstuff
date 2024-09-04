@@ -2,6 +2,8 @@
 
 Experiments and results using the SuperPrompt framework https://github.com/NeoVertex1/SuperPrompt.
 
+Using Claude's web UI.
+
 Since the original author of the system prompt may update the prompt, I will link below the version of their prompt that I used:
 
 ```bash
